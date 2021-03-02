@@ -40,3 +40,5 @@ RUN make install
 
 # Add cv2 to the python path
 RUN mv /usr/local/lib/python3.8/site-packages/cv2 /usr/lib/python3.8/site-packages/
+
+WORKDIR /
