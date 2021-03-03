@@ -1,5 +1,5 @@
 <br>
-<p align="center"><img src="https://raw.githubusercontent.com/Kolos65/python-opencv-dlib/main/pod.png" width="400”  alt="" /></p>
+<p align="left"><img src="https://raw.githubusercontent.com/Kolos65/python-opencv-dlib/main/pod.png" width="200”  alt="" /></p>
                                                                                                                       
 # python-opencv-dlib
 A linux alpine based docker image with Python, OpenCV and dlib installed, supporting armv7 and amd64 architectures.
